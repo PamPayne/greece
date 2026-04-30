@@ -1,12 +1,6 @@
 # Greece Regulatory Documents
 
-Markdown versions of regulatory documents for Greece, sourced from the DBNSA Regulatory Repository and converted for easy reference and version tracking.
-
-## Documents
-
-| Document | Source File |
-|---|---|
-| [Quickfire High Level Analysis For Greece V1.1](Quickfire_High_Level_Analysis_for_Greece_v1.1.md) | Quickfire High Level Analysis for Greece v1.1.pdf |
+Markdown versions of regulatory documents for Greece, extracted from the DBNSA Regulatory Repository.
 
 ## Source
 
